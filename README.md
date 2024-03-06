@@ -32,7 +32,7 @@
   <p align="center">
     Computer Vision to detect lane lines on a road
     <br />
-    <a href="https://github.com/derekn4/PillClassification"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/derekn4/Lane-Detection"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
@@ -89,10 +89,6 @@ With these techniques, I could process dash cam footage and annotate them highli
 
 
 ## Pipeline
-- Install all necessary libraries to run pillImageDownload.py
-- NOTE: the  National Library of Medicine consisted of 4,000 high-quality reference pills and 133,000 pictures captured by digital cameras on mobile phones.
-  - ~2-3TB of data which we could not store or processes in GoogleColab
-
 ### Grayscale
 
 Removing color channels allows for the Canny edge dectector to more effectively detect edges, since it uses changes in pixel intensity
@@ -216,7 +212,7 @@ Derek Nguyen
 - [LinkedIn](https://www.linkedin.com/in/derekhuynguyen/) 
 - [Email](derek.nguyen99@gmail.com)
 <br></br>
-Project Link: [https://github.com/derekn4/PillClassification](https://github.com/derekn4/PillClassification)
+Project Link: [https://github.com/derekn4/Lane-Detection](https://github.com/derekn4/Lane-Detection)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
