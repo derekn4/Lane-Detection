@@ -82,7 +82,7 @@ With these techniques, I could process dash cam footage and annotate them highli
 ### Built With
 
 * [![Python][Python.org]][Python-url]
-* [![OpenCV][opencv.org]][opencv-url]
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" width="200"/>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
